@@ -8,13 +8,15 @@
   ],
   "main": "src/index.js",
   "dependencies": {
+    "prop-types": "^15.8.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-scripts": "4.0.0"
   },
   "devDependencies": {
-    "react-scripts": "1.0.0",
     "@babel/runtime": "7.13.8",
+    "@types/prop-types": "^15.7.5",
+    "react-scripts": "1.0.0",
     "typescript": "4.1.3"
   },
   "scripts": {
